@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="numberOfSongsAvailable">
-        <item quantity="one">%d song found.</item>
+        <item quantity="one">%d song found.</item>  <item quantity="onde">%d song found.</item>
         <item quantity="other">%d songs found.</item> 
     </plurals>
     <string name="simple">This is a simple value has changed</string>
