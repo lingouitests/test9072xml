@@ -2,12 +2,12 @@
 <resources>
     <plurals name="numberOfSongsAvailable">
         <item quantity="one">%d song found.</item>
-        <item quantity="other">%d songs found.</item>
+        <item quantity="other">%d songs found.</item>     
     </plurals>
     <string name="simple">This is a simple value has changed</string>
     <string-array name="cars">
         <item>Mercury</item>
-        <item>Dart Dodge</item>   
+        <item>Dart Dodge</item>    
         <item>Viper</item>
     </string-array>
     <string name="reset_password_ok">OK</string>
@@ -16,7 +16,5 @@
     </plurals>
 	<string-array name="cars2">
         <item>Mercury</item>
-    </string-array>	
-       <item>Dart Dodge</item>
     </string-array>	
 </resources>
