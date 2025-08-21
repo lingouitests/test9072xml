@@ -15,7 +15,6 @@
         <item quantity="one1">One1</item>
     </plurals>
         <item quantity="one2">One2</item>
-    </plurals>
 	<string-array name="cars2">
         <item>Mercury</item>
     </string-array>	
