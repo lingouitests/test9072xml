@@ -2,7 +2,7 @@
 <resources>
     <plurals name="numberOfSongsAvailable">
         <item quantity="one">%d song found.</item>
-        <item quantity="other">%d songs found.</item>     <item quantity="other2">%d songs found.</item>   
+        <item quantity="other">%d songs found.</item>    
     </plurals>
     <string name="simple">This is a simple value has changed</string>
     <string-array name="cars">
