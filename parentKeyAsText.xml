@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <parent>
+       <key>key1</key>
+       <value>value1</value>
+    </parent>    <parent>
+       <key>key2</key>
+       <value>value2</value>
+    </parent>
+    <parent>       <key>key3</key>       <value>value3</value>    </parent>    <parent>
+       <key>key4</key>
+       <value>value4</value>
+    </parent>    
+</root>
