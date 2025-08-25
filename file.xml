@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <parent>
+        <data name="key1"/>
+        <value>Value for key1</value>
+    </parent>        <parent>
+        <data name="key2"/>
+        <value>Value for key2</value>
+    </parent>        <parent>         <data name="key3"/>         <value>Value for key3</value>    </parent>    
+</root>
