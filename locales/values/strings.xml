@@ -10,15 +10,15 @@
         <item>Dart Dodge</item>     <item>Mustang</item>
         <item>Viper</item>
     </string-array>
-    <string name="reset_password_ok">OK</string><!-- Reset Password Confirmation --><string name="reset_password_confirmation_header_title">Melkein valmista!</string>
-	<plurals name="plural1">
+    <string name="reset_password_ok">OK</string><!-- Reset Password Confirmation --><string name="reset_password_confirmation_header_title">Password reset</string>
+    <plurals name="plural1">
         <item quantity="one1">One1</item>
     </plurals><plurals name="plural2">
         <item quantity="one2">One2</item>
     </plurals>
-	<string-array name="cars2">
+    <string-array name="cars2">
         <item>Mercury</item>
-    </string-array>	<string-array name="cars3">
+    </string-array>    <string-array name="cars3">
        <item>Dart Dodge</item>
-    </string-array>	
+    </string-array>
 </resources>
