@@ -2,23 +2,19 @@
 <resources>
     <plurals name="numberOfSongsAvailable">
         <item quantity="one">%d song found.</item>
-        <item quantity="other">%d songs found.</item>     <item quantity="few">%d songs few.</item>
+        <item quantity="other">%d songs found.</item>     
     </plurals>
     <string name="simple">This is a simple value has changed</string>
     <string-array name="cars">
         <item>Mercury</item>
-        <item>Dart Dodge</item>     <item>Mustang</item>
+        <item>Dart Dodge</item>    
         <item>Viper</item>
     </string-array>
-    <string name="reset_password_ok">OK</string><!-- Reset Password Confirmation --><string name="reset_password_confirmation_header_title">Password reset</string>
+    <string name="reset_password_ok">OK</string>
     <plurals name="plural1">
         <item quantity="one1">One1</item>
-    </plurals><plurals name="plural2">
-        <item quantity="one2">One2</item>
     </plurals>
     <string-array name="cars2">
         <item>Mercury</item>
-    </string-array>    <string-array name="cars3">
-       <item>Dart Dodge</item>
-    </string-array>
+    </string-array>    
 </resources>
