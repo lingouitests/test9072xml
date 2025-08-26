@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="ACM_001_ActivityFeed">
         <source xml:lang="en-US" xml:space="preserve">Account created</source>
-        <target xml:lang="en-US" state="translated" xml:space="preserve">Account created</target>
+        <target xml:lang="en-US" state="translated" xml:space="preserve">Account created</target> <target xml:lang="en-US" state="translated" xml:space="preserve">Account created 2</target>
       </trans-unit>
       <trans-unit id="ACM_002_ActivityFeed">
         <source xml:lang="en-US" xml:space="preserve">Account was verified</source>
