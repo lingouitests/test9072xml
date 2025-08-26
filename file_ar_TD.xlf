@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <body>
+      <trans-unit id="ACM_002_ActivityFeed">
+        <source xml:lang="en-US" xml:space="preserve">Account was verified</source>
+        <target xml:lang="en-US" state="translated" xml:space="preserve">Account was verified</target>
+      </trans-unit> 
+    </body>
